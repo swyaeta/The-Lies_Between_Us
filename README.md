@@ -22,13 +22,12 @@ This project is being developed with Ren'Py, an open-source engine for creating 
 **Built with**
 - Ren'Py
 - Character sprites, backgrounds, and music are from the internet
-- 
+- character sprites credit:sutemo
+(https://sutemo.itch.io/)
+
+bg : potat0master
+potat0master Made with: Ren’Py Genre: Mystery • Drama • Supernatural Type: Story-driven Visual Novel
 
 
+## Demo-url:
 
-
-
-
----
-
-*The truth is only simple until you start asking questions.*
