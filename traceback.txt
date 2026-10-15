@@ -1,0 +1,27 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 360, in script
+    d "You B%itch, 2 more months and I'll sell to pro$titution"
+TypeError: %i format: a real number is required, not TagQuotingDict
+
+-- Full Traceback ------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "game/script.rpy", line 360, in script
+    d "You B%itch, 2 more months and I'll sell to pro$titution"
+  File "renpy/ast.py", line 2935, in execute
+    Say.execute(self)
+    ~~~~~~~~~~~^^^^^^
+  File "renpy/ast.py", line 994, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/exports/sayexports.py", line 118, in say
+    what = what % tag_quoting_dict
+           ~~~~~^~~~~~~~~~~~~~~~~~
+TypeError: %i format: a real number is required, not TagQuotingDict
+
+Windows-10-10.0.19045-SP0 AMD64
+Ren'Py 8.5.3.26051504
+The lies between us 1.0
+Thu Oct 15 15:34:29 2026
