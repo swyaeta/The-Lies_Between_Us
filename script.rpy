@@ -697,6 +697,7 @@ J "When I  was 12............. I was kidnapped..........this man and he fed me h
 J "He manipulated me intooo this........" 
 hide marta_normal
 show marta_sad at right:
+    zoom 0.7
 m "Poor you.....you must have suffered alot"
 "Jack......or really amanda sobs"
 J "Now, he wants to......... sell me"  
@@ -728,6 +729,7 @@ show jack_sad at right:
 J "Please sir...your problem is with me leave them"
 hide dad_normal
 show dad_angry at left:
+    zoom 0.7
 d "SHUTUP..!!!! did I ask you...huh????"
 hide dad_angry
 hide jack_sad
@@ -758,7 +760,6 @@ j "Did I disturb our highschool's hotest couple??? huhhh!!"
 J "We are there all because of you"
 m "Nah, her loving mother who tracked her down"
 j "Shutup..marta!! You'd probably been washing dish if she didnt come"
-
 
 # scene end:
 scene street with fade
