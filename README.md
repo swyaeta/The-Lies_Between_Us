@@ -21,7 +21,7 @@ This project is being developed with Ren'Py, an open-source engine for creating 
 
 **Built with**
 - Ren'Py
-- Character sprites, backgrounds, and music are from the internet
+- Character sprites and background are from the internet
 - character sprites credit:sutemo
 (https://sutemo.itch.io/)
 
